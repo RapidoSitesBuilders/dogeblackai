@@ -4126,6 +4126,35 @@ index_v4
     padding-top: 192px;
     position: relative;
 }
+
+/* iPhone 5/SE (320px) */
+@media only screen and (max-width: 320px) {
+    .dogeblack_v4_baner_sect {
+        background: url(../images/bg/v4_baner_bgcrop.png);
+    }
+}
+
+/* iPhone 6/7/8/X (375px) */
+@media only screen and (max-width: 375px) {
+    .dogeblack_v4_baner_sect {
+        background: url(../images/bg/v4_baner_bgcrop.png);
+    }
+}
+
+/* iPhone 6/7/8 Plus (414px) */
+@media only screen and (max-width: 414px) {
+    .dogeblack_v4_baner_sect {
+        background: url(../images/bg/v4_baner_bgcrop.png);
+    }
+}
+
+/* Small devices (up to 480px) */
+@media only screen and (max-width: 480px) {
+    .dogeblack_v4_baner_sect {
+        background: url(../images/bg/v4_baner_bgcrop.png);
+    }
+}
+
 .dogeblack_v4_baner_left{
     margin-top: 90px;
     min-height: auto;
