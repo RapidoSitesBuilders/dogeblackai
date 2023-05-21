@@ -1769,6 +1769,10 @@ body .modal-backdrop {
     color: rgba(255, 255, 255, 0.8);
     padding-top: 18px;
 }
+.v1_tokenomics_section img {
+    width: 120%; /* Adjust as needed */
+    height: auto; /* Maintains aspect ratio */
+}
 .v1_about_us_section{
     padding-top: 110px;
 }
