@@ -592,7 +592,7 @@ body .modal-backdrop {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    width: 25%;
+    width: 15%;
 }
 .dogeblack_menu_list{
     margin-left: 65px;
@@ -1079,12 +1079,33 @@ body .modal-backdrop {
     justify-content: center;
     flex-direction: column;
 }
+.dogeblack_v1_baner_left{
+    margin-top: 66px;
+    max-width: 500px;
+    width: 100%;
+    min-height: 550px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
 .dogeblack_v1_baner_left h2 {
     font-family: 'Bakbak One';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
     line-height: 80px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.dogeblack_v1_baner_left1 h2 {
+    font-family: 'Bakbak One';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
     text-transform: uppercase;
     color: #FFFFFF;
     margin-bottom: 32px;
@@ -1769,10 +1790,6 @@ body .modal-backdrop {
     max-width: 289px;
     color: rgba(255, 255, 255, 0.8);
     padding-top: 18px;
-}
-.v1_tokenomics_section img {
-    width: 120%; /* Adjust as needed */
-    height: auto; /* Maintains aspect ratio */
 }
 .v1_about_us_section{
     padding-top: 110px;
@@ -4175,6 +4192,15 @@ index_v4
 .dogeblack_v4_baner_left{
     margin-top: 90px;
     min-height: auto;
+}
+
+.dogeblack_v4_baner_left1{
+    margin-top: 50px;
+    min-height: auto;
+}
+.dogeblack_v4_baner_left1 p{
+    color: white;
+    font-size: 20px;
 }
 .dogeblack_v4_baner_left h2 span{
     position: relative;
