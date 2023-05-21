@@ -597,7 +597,7 @@ body .modal-backdrop {
 .dogeblack_menu_list{
     margin-left: 65px;
     margin-right: 96px;
-    max-width: 514px;
+    max-width: 570px;
     min-width: 409px;
     width: 100%;
 }
@@ -698,6 +698,7 @@ body .modal-backdrop {
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    margin-left: 15px;
 }
 .dogeblack_menu_right_sect{
     width: 85%;
@@ -4126,6 +4127,18 @@ index_v4
     padding-top: 192px;
     position: relative;
 }
+
+.dogeblack_v4_baner_sect1{
+    background: url(../images/bg/v4_baner_bg.png);
+    min-height: 550px;
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 192px;
+    position: relative;
+}
+
 
 /* iPhone 5/SE (320px) */
 @media only screen and (max-width: 320px) {
