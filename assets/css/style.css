@@ -1129,10 +1129,10 @@ body .modal-backdrop {
 }
 .dogeblack_v1_baner_buttons button.widhlist_btn {
     height: 60px;
-    width: 200px;
+    width: 140px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.2);
-    margin-left: 30px;
+    margin-left: 10px;
     text-transform: uppercase;
     box-sizing: border-box;
     font-family: 'Bakbak One';
@@ -1495,7 +1495,7 @@ body .modal-backdrop {
 }
 .dogeblack_v1_baner_buttons button.mint_btn {
     height: 60px;
-    width: 200px;
+    width: 145px;
     background: #db1f23;
     border: none;
     text-transform: uppercase;
