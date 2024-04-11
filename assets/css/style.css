@@ -3211,7 +3211,7 @@ div.latest-item .hover-shape-bg{
 .join_comunity_btns button.join_discord_btn {
     height: 60px;
     width: 200px;
-    background: #1fb0db;
+    background: #ffffff;
     box-sizing: border-box;
     font-family: 'Bakbak One';
     font-style: normal;
@@ -3219,7 +3219,7 @@ div.latest-item .hover-shape-bg{
     font-size: 16px;
     line-height: 22px;
     text-align: center;
-    color: #FFFFFF;
+    color: #000000;
     text-transform: uppercase;
 }
 .categories-area h4.blog-title{
