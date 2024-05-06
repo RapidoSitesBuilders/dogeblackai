@@ -47980,7 +47980,7 @@
             children: t,
           });
         },
-        xa = n.p + "static/media/logo.png",
+        xa = n.p + "presale/static/media/logo.png",
         ja = JSON.parse(
           '{"zm":"0xb79fb60c5433359724f8e9e91796046f4cfdfd76","Nb":"0xF4A0F9E3a0E77973eea14C3E173aa38F995c6c6F","ob":"DBLACK AI","Ay":18,"er":3,"a0":"https://www.bscscan.com/"}'
         ),
